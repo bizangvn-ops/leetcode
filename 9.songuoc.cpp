@@ -13,7 +13,7 @@ int main(){
     }
     if (bandau=lucsau)
     {
-        cout<<"true";
+        cout<< "true";
        
     }
     else{
